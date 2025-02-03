@@ -1,5 +1,5 @@
- I am Japhet Kalumba , a front-end developer based in RWANDA/KIGALI
-
+ **I am Japhet Kalumba , a front-end developer based in RWANDA/KIGALI**
+---
  
 Frontend developer with a solid foundation in JavaScript fundamentals 
 and problem-solving, developed through structured coursework
@@ -12,3 +12,5 @@ modern frameworks like React. Seeking an internship to contribute
 my technical curiosity,flexibility in tackling new challenges, and
 enthusiasm for building user-friendly web experiences in fast-paced
 environments.
+
+---
