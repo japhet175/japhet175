@@ -1,6 +1,6 @@
  I am Japhet Kalumba , a front-end developer based in RWANDA/KIGALI
 
-<!--
+ 
 Frontend developer with a solid foundation in JavaScript fundamentals 
 and problem-solving, developed through structured coursework
 (JavaScript.info, Greeks for geeks) and hands-on practice. Built 
