@@ -1,13 +1,13 @@
 **I am Japhet Kalumba, a front-end developer based in Kigali**
 ---
-Frontend developer with a solid foundation in JavaScript fundamentals and problem-solving,
+Front-end developer with a solid foundation in JavaScript fundamentals and problem-solving,
 developed through structured coursework (JavaScript.info , Greeks for geeks) and hands-on
 practice. Built practical projects like a dynamic data filter table to master DOM manipulation,
 event handling, and clean code organization. A quick and adaptab learner, passionate about
 refining my skills through real-world collaboration and eager to rapidly acquire expertise modern
 frameworks like React. Seeking an internship to contribute my technical curiosity, flexibility in
 tackling n challenges, and enthusiasm for building user-friendly web experiences in fast-paced
-environments you can provide a description of yourself here..
+environments .
 
 
 **Some of Project I achieved**🚀
