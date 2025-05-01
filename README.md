@@ -1,4 +1,4 @@
-**I am Japhet Kalumba, a front-end developer based in Kigali**
+**I am Japhet Kalumba, a Frontend Engineer based in Kigali**
 ---
 Front-end developer with a solid foundation in JavaScript fundamentals and problem-solving,
 developed through structured coursework (JavaScript.info , Greeks for geeks) and hands-on
