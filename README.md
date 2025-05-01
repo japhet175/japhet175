@@ -28,6 +28,5 @@ environments .
 
 
 ## 📫 Let's Connect:
-LinkedIn :https://linkedin.com/in/japhet-kalumba-07428a34b
 Email : jkalumba422@gmail.com
 Phone number : +250798980773
