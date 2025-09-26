@@ -12,13 +12,7 @@ I learn quickly and adapt easily, and I’m passionate about improving my skills
 ---
 **https://github.com/japhet175/Sortable-and-filter-table.prototype**
 ---
-**https://github.com/japhet175/Array**
----
-**https://github.com/japhet175/Star-Rating**
----
-**https://github.com/japhet175/String**
----
-**https://github.com/japhet175/String**
+
 ---
 
 
