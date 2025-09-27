@@ -1,8 +1,6 @@
-**Based in Kigali, I’m a Frontend Engineer passionate about building great user experiences.**
+**Based in Kigali, I'm a Frontend Engineer with growing Node.js expertise, dedicated to building complete web applications from UI to API**
 ----------------------------------------
-I’m a front-end Engineer with a solid grasp of JavaScript fundamentals and problem-solving, gained through courses like JavaScript.info and practical projects. For example, I built a dynamic data filter table that helped me get comfortable with DOM manipulation, event handling, and writing clean, organized code.
-
-I learn quickly and adapt easily, and I’m passionate about improving my skills by working on real projects with others. Right now, I’m focused on getting better with modern frameworks like React. I’m looking for an internship where I can bring my curiosity, flexibility, and enthusiasm to build user-friendly web experiences in a fast-paced environment.
+Forward-thinking React and React Native developer with a track record of building scalable, high-performance applications that blend creativity with technical excellence. I believe technology should not only solve problems but also improve lives and strengthen communities. My work on projects such as Smart Village, a platform designed to connect people and foster engagement, reflects my ability to turn bold ideas into meaningful digital experiences. Passionate about innovation, I thrive on delivering solutions that are intuitive, impactful, and built to last. I am currently expanding my expertise to include Node.js backend development, enhancing my ability to create seamless full-stack solutions.
 
 
 **Some of Project I achieved**🚀
