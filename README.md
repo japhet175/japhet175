@@ -7,10 +7,8 @@ I learn quickly and adapt easily, and I’m passionate about improving my skills
 
 **Some of Project I achieved**🚀
 ---
+https://japhet175.github.io/expense-tracker/
 
-**https://github.com/japhet175/Expense-Tracker**
----
-**https://github.com/japhet175/Sortable-and-filter-table.prototype**
 ---
 
 ---
