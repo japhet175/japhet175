@@ -1,4 +1,4 @@
-**Based in Kigali, I'm a Frontend Engineer with growing Node.js expertise, dedicated to building complete web applications from UI to API**
+**Full-stack JavaScript developer building reliable web applications with React and Node.js**
 ----------------------------------------
 Forward-thinking React and React Native developer with a track record of building scalable, high-performance applications that blend creativity with technical excellence. I believe technology should not only solve problems but also improve lives and strengthen communities. My work on projects such as Smart Village, a platform designed to connect people and foster engagement, reflects my ability to turn bold ideas into meaningful digital experiences. Passionate about innovation, I thrive on delivering solutions that are intuitive, impactful, and built to last. I am currently expanding my expertise to include Node.js backend development, enhancing my ability to create seamless full-stack solutions.
 
